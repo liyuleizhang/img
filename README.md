@@ -1,4 +1,4 @@
-# 详情图片
+# 图片使用说明
 
 上传图片到本仓库，进入图片,单击download
 ![Image text](https://raw.githubusercontent.com/liyuleizhang/img/main/img/WX20210407-111314.png)
